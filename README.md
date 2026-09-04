@@ -37,13 +37,13 @@ To run this project locally on your machine, ensure you have the Flutter SDK ins
    ```bash
    git clone https://github.com/Gauri275/Flutter-Weather-App.git
    
-2. **Navigate to directory**
+2. **Navigate to directory** -
    cd weather_app
    
-3. **Install Dependencies**
-   flutter pug get
+3. **Install Dependencies** -
+   flutter pub get
    
-4. **Run the App**
+4. **Run the App** -
    flutter run
 
 
